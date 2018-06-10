@@ -1,2 +1,2 @@
 # dena-conversion
-This is a practice projectt for Software Carpentry.
+This is a practice project for Software Carpentry.
